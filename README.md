@@ -1,20 +1,22 @@
-## Hola, soy Jessica Martinez ✨
+## Hola, soy Jessica Martínez ✨
 ---
 #### Bienvenidos a mi espacio en Git
 
 #### Sobre mí:
-Soy estudiante de Bachillerato, de tercero de Desarrollo de Software. Me apasiona aprender y mantenerme actualizado en nuevos lenguajes de programación y nuevas técnicas.
-#### 📱Tecnologías:
+Soy estudiante de Bachillerato, en tercer año de Desarrollo de Software. Me apasiona aprender y mantenerme actualizada en nuevos lenguajes de programación y técnicas.
+
+#### 📱 Tecnologías:
 - Python 
 - Java
-- mySQL 
+- MySQL 
 - HTML
 - CSS                                                 
-- JavaScrip
-- PSeINT
+- JavaScript
+- PSeInt
 - Scratch
-#### 📌 Proyectos:
-próximamente...
 
-#### 📧 Contatos:
+#### 📌 Proyectos:
+Próximamente...
+
+#### 📧 Contactos:
 - **Email:** jessicamartinezchinchilla@gmail.com
