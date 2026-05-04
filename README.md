@@ -8,7 +8,7 @@
 
 Soy estudiante de Bachillerato en Desarrollo de Software, con conocimientos en desarrollo web y programación orientada a objetos.
 Me enfoco en crear soluciones prácticas, funcionales y bien estructuradas.
-Siempre estoy aprendiendo algo nuevo (porque en tech, si te duermes… te quedas atrás 😅).
+Siempre estoy aprendiendo algo nuevo.
 
 ---
 
