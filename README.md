@@ -3,7 +3,7 @@
 #### Bienvenidos a mi espacio en Git
 
 #### Sobre mí:
-Soy estudiante de Bachillerato, de tercero de Desarrollo de Software. Me apaciona aprender y mantenerme actualizado a nuevos lengaes de programacion y nuevas tecnicas.
+Soy estudiante de Bachillerato, de tercero de Desarrollo de Software. Me apasiona aprender y mantenerme actualizado en nuevos lenguajes de programación y nuevas técnicas.
 #### 📱Tecnologías:
 - Python 
 - Java
